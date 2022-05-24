@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-image:linear-gradient(midnightblue,midnightblue) ;
+    color: aqua;
+}
+#bruh{
+    width: 100%;
+     font-size:25px ;
+     margin: 0;
+     color: aqua;
+}
+#showsketch{
+    float :right ;
+}
+canvas{
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px ;
+    margin-top: 70px;
+    
+}
+#score{
+
+float: left;
+margin-top: 100px;
+font-size :25px ;
+}
+#timer{
+    float:right;
+    margin-top: 100px;
+    font-size: 25px;
+}
